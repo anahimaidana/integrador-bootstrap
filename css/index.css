@@ -1,0 +1,87 @@
+   /*HEADER*/
+  h6 {
+    display: inline-flex;
+  }
+
+   /*MAIN*/
+
+.contenedor1 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.contenedor2 {
+    margin-right: 6%;
+    margin-bottom: 6%;
+    width: 40%;
+    height: auto;
+}
+
+.card-img {
+    opacity: 0.4;
+    height: 50vw;
+    object-fit: cover;
+}
+
+/*CARD */
+
+.text0 {
+    font-size: xx-small;
+}
+
+.contenedorcard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card-group {
+    width: 70%;
+    height: 15%;
+}
+
+.text1 {
+    width: 90px;
+    display: inline-block;
+}
+
+.text2 {
+    width: 60px;
+    display: inline-block;
+}
+
+.text3 {
+    width: 70px;
+    display: inline-block;
+}
+
+/*FORMULARIO */
+.box1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.boxcomentarios {
+    width: 70%;
+    height: 15%;
+}
+
+.colorboton {
+    background-color: rgb(67, 199, 67);
+}
+
+.text4 {
+    font-size: xx-small;
+}
+
+.preguntas {
+    display: block;
+}
+
+.terminos {
+    display: block;
+}
