@@ -70,12 +70,36 @@
     height: 15%;
 }
 
+.boxTickets {
+    width: 60%;
+    height: 15%;
+}
+
+.boxBotones {
+    width: 50%;
+    height: 15%;
+}
+
+.boxDescuentos {
+    width: 60%;
+    height: 30%;
+}
+
+.boxSection {
+    width: 33%;
+}
+
+
 .colorboton {
     background-color: rgb(67, 199, 67);
 }
 
 .text4 {
     font-size: xx-small;
+}
+
+.text5 {
+    font-size: x-small;
 }
 
 .preguntas {
